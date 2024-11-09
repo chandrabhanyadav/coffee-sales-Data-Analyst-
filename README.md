@@ -1,7 +1,7 @@
 #☕Coffee Sales Analysis 📊
 📋 Project Overview
 This project focuses on analyzing coffee sales data to extract insights and predict future sales. The project includes Exploratory Data Analysis (EDA), Time Series Forecasting, and a Machine Learning model to predict sales using historical data. The primary goal is to understand sales trends, identify peak sales periods, and forecast future sales to drive data-driven business strategies.
-DATASET =()
+DATASET =(https://github.com/chandrabhanyadav/coffee-sales-Data-Analyst-/blob/main/Coffee_sales.csv)
 🗂️ Table of Contents
 Project Overview
 Technologies Used
